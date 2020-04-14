@@ -7,7 +7,7 @@
 
 ![](images/donut2.png)
 
-3.ทำ icing ย้อยลงมาโดยใช้ เครื่องมือ Extrusion โดยเลือกที่ icing แล้วทำการ subdivide จากนั้นเลือก Probposional editing เป็น Smooth และกด E เพื่อดัง icing ลงมา ปรับแต่งตามความต้องการ
+3. ทำ icing ย้อยลงมาโดยใช้ เครื่องมือ Extrusion โดยเลือกที่ icing แล้วทำการ subdivide จากนั้นเลือก Probposional editing เป็น Smooth และกด E เพื่อดัง icing ลงมา ปรับแต่งตามความต้องการ
 
 ![](images/donut3.png)
 
