@@ -6,3 +6,11 @@
 2. ทำตัว icing ของโดนัท โดย copy ส่วนบนของโดนัท (shif+d) ใน edit mode และตั้งชื่อ object ว่า icing จากนั้นปรับความหนาด้วยการ add modifier เลือก solidify ปรับ Thickess 
 
 ![](images/donut2.png)
+
+3.ทำ icing ย้อยลงมาโดยใช้ เครื่องมือ Extrusion โดยเลือกที่ icing แล้วทำการ subdivide จากนั้นเลือก Probposional editing เป็น Smooth และกด E เพื่อดัง icing ลงมา ปรับแต่งตามความต้องการ
+
+![](images/donut3.png)
+
+4. ทำขอบโดนัทโดยใช้ sculpting mode และใช้เครื่องมือ Draw เพื่อทำให้รอบโดนัทเป็นร่อง และกลับไปสู่ layout เพื่อดึง icing ให้แนบติดกับตัวโดนัท
+
+![](images/donut4.png)
