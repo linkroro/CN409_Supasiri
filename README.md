@@ -1,6 +1,6 @@
 # CN409: SPECIAL TOPICS IN COMPUTER ENGINEERING II
 
-##ทำความรู้จัก Blender
+## ทำความรู้จัก Blender
 
 Blender คือซอฟแวร์ open source สำหรับสร้าง model 3D, Redering, Animation และอื่น ๆ อีกมากมาย สามารถทำงานได้บนหลายระบบปฏิบัติการเช่น Windows,Mac OS X, LINUX
 ----
