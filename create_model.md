@@ -14,3 +14,7 @@
 4. ทำขอบโดนัทโดยใช้ sculpting mode และใช้เครื่องมือ Draw เพื่อทำให้รอบโดนัทเป็นร่อง และกลับไปสู่ layout เพื่อดึง icing ให้แนบติดกับตัวโดนัท
 
 ![](images/donut4.png)
+
+# Video การสร้าง model
+[Part 1](https://youtu.be/wDvkaw0JKzA)
+[Part 2](https://youtu.be/i-4ih3UeJNA)
