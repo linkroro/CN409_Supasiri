@@ -46,3 +46,6 @@
   * Slip Strip Content - เปลี่ยนตำแหน่งของเนื้อหาของแถบโดยไม่ต้องย้ายแถบตัวเอง
   * Duplicate Strips - ทำสำเนา Strips จากนั้นลากไปยังเวลาและช่องที่ต้องการ
   * Delete Strips - Delete / X
+  
+## คลิปตัดต่อวิดีโอในชั้นเรียน
+ [video editing](https://youtu.be/F5TusOM1aI4)
