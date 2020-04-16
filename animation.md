@@ -16,7 +16,7 @@
   * Moving Hold (สีเทาเข้ม/สีส้ม รูปเพชร) - แสดงระหว่างการเพิ่มการเคลื่อนไหวเล็กน้อยที่ object ที่กำหนด
   * Extreme (สีชมพูอันใหญ่รูปเพชร)
   * Jitter (เพชรสีเขียวอันเล็ก ๆ)
-  ![Image](images/01.png)
+![Image](images/01.png)
   
  ### Editing
  ## Insert Keyframes
@@ -34,6 +34,6 @@
 ## Keying Set Panel
   ใช้ในการ เพิ่ม เลือก และจัดการกับ Absolute Keying Sets\
   มุมมองรายการของชุดคีย์ในฉากที่ใช้งานอยู่
-  ![Image](images/03.png)
+![Image](images/03.png)
   การควบคุมนี้มีประโยชน์มาก หากเราต้องการเปลี่ยนแปลงบางส่วยของ Object ก็ทำเป็น list ได้
   
