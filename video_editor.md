@@ -10,8 +10,7 @@
 ![image](images/04.png)
 
 ### Navigating
-* Header\
-
+* Header
 ![image](images/05.png)
 
 * Markers Menu - ถูกใจเพื่อแสดงถึงเฟรมที่มีประเด็นสำคัญหรือเตุการณ์สำคัญในภาพเคลื่อนไหว\
