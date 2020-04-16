@@ -11,8 +11,11 @@
 
 ### Navigating
 * Header\
+
 ![image](images/05.png)
+
 * Markers Menu - ถูกใจเพื่อแสดงถึงเฟรมที่มีประเด็นสำคัญหรือเตุการณ์สำคัญในภาพเคลื่อนไหว\
+
 ![image](images/06.png)
 
 ### Strip
