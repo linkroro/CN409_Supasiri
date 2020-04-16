@@ -23,10 +23,11 @@
   * ในมุมมอง 3 D การกด I จะแสดง menu ที่สามารถเพิ่ม keyframe ได้
   * เลือก object แล้วกด I แล้วเลือก Insert Keyframe จากเมนู
 ## Auto Keyframe
-!()[images/02.png]
+  !()[images/02.png]
+
   เป็นปุ่มบันทึก timeline โดยเมื่อเราปรับเปลี่ยน object หรือ move ก็จะเพิ่ม keyframe ในอัตโนมัต
 ## Delete Keyframes
   * กด Alt-I เพื่อลบคีย์ออกจากวัตถุที่เลือกในเฟรมปัจจุบัน
 ## Clear Keyframes
-  Object ‣ Animation ‣ Clear Keyframes…
+  Object ‣ Animation ‣ Clear Keyframes…\
   Removes all keyframes from the selected object.
