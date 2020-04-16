@@ -16,14 +16,14 @@
   * Moving Hold (สีเทาเข้ม/สีส้ม รูปเพชร) - แสดงระหว่างการเพิ่มการเคลื่อนไหวเล็กน้อยที่ object ที่กำหนด
   * Extreme (สีชมพูอันใหญ่รูปเพชร)
   * Jitter (เพชรสีเขียวอันเล็ก ๆ)
-!()[images/pic1.png]
+  ![Image](images/01.png)
   
  ### Editing
  ## Insert Keyframes
   * ในมุมมอง 3 D การกด I จะแสดง menu ที่สามารถเพิ่ม keyframe ได้
   * เลือก object แล้วกด I แล้วเลือก Insert Keyframe จากเมนู
 ## Auto Keyframe
-!()[images/pic2.png]
+![Image](images/02.png)
 
   เป็นปุ่มบันทึก timeline โดยเมื่อเราปรับเปลี่ยน object หรือ move ก็จะเพิ่ม keyframe ในอัตโนมัต
 ## Delete Keyframes
@@ -31,3 +31,9 @@
 ## Clear Keyframes
   Object ‣ Animation ‣ Clear Keyframes…\
   Removes all keyframes from the selected object.
+## Keying Set Panel
+  ใช้ในการ เพิ่ม เลือก และจัดการกับ Absolute Keying Sets\
+  มุมมองรายการของชุดคีย์ในฉากที่ใช้งานอยู่
+  ![Image](images/03.png)
+  การควบคุมนี้มีประโยชน์มาก หากเราต้องการเปลี่ยนแปลงบางส่วยของ Object ก็ทำเป็น list ได้
+  
