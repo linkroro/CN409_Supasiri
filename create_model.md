@@ -15,6 +15,6 @@
 
   ![](images/donut4.png)
 
-# Video การสร้าง model
+# Video การสร้าง model & Material
 [Part 1](https://youtu.be/wDvkaw0JKzA)
 [Part 2](https://youtu.be/i-4ih3UeJNA)
